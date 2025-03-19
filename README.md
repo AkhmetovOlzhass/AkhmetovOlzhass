@@ -30,7 +30,7 @@
 
 ## 📌 Featured Projects  
 🔹 **[newsTok](https://github.com/AkhmetovOlzhass/newsTok)** – AI-powered news-to-video generator, acquired by Tengrinews  
-🔹 **[SmartRoutineBot](https://github.com/AkhmetovOlzhass/SmartRoutineBot)** – AI-based productivity assistant, Top 10 at Red Bull Basement  
+🔹 **[SmartRoutineBot](https://github.com/AkhmetovOlzhass/tgDo)** – AI-based productivity assistant, Top 10 at Red Bull Basement  
 🔹 **[StoreIt](https://github.com/AkhmetovOlzhass/storeIt)** – Google Drive Clone built with Next.js & Appwrite  
 🔹 **[VoiceBot](https://github.com/AkhmetovOlzhass/VoiceBot)** – Telegram bot for AI-powered audio transcription  
 
